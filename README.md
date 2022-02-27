@@ -1,1 +1,1 @@
-# flappy-bird
+This is the code and projects from my Intermediate Java course in 2020. The main project of the course was the Mario game, and at the end of the class, we had the opportunity to create a game of our choice. The game I chose was Flappy Bird.
